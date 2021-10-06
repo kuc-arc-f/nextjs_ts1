@@ -13,9 +13,6 @@ export default function Navibar(){
       <Link href="/tasks">
         <a>[ Tasks ]</a>
       </Link>
-      <Link href="/notes">
-        <a>[ Notes ]</a>
-      </Link>
       <Link href="/login">
         <a>[ Login ]</a>
       </Link>
